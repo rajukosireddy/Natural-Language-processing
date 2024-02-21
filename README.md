@@ -1,3 +1,3 @@
 # Natural Language Processing
 
-## TASK1: LSTM
+## TASK1: [LSTM](LICENSE)
