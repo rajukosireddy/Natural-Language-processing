@@ -1,1 +1,3 @@
-# Natural-Language-processing
+# Natural Language Processing
+
+## TASK1: LSTM
